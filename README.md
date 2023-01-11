@@ -19,3 +19,5 @@ void loop()
   delay(1000); //Un retardo para llenar el puerto serial
 }
 ```
+
+* La funcion void setup() y void loop() utilizan el nucleo 1
