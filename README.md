@@ -22,5 +22,5 @@ void loop()
 
 * La funcion ```void setup()``` y ```void loop()``` utilizan el nucleo 1
 * La funcion ```xPortGetCoreID()``` se utiliza para conocer que nucleo se esta utilizando
-* Este microcontrolador tiene dos nucleo y se pueden hacer dos actividades al mismo tiempo
+* Este microcontrolador tiene dos nucleo por lo cual se pueden hacer dos procesos en paralelo
 
