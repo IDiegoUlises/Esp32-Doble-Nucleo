@@ -24,7 +24,7 @@ void loop()
 * La funcion ```xPortGetCoreID()``` se utiliza para conocer que nucleo se esta utilizando
 * Este microcontrolador tiene dos nucleos por lo cual se pueden hacer dos procesos al mismo tiempo
 
-### Codigo para utilizar el doble nucleo
+## Codigo para utilizar el doble nucleo
 ```c++
 TaskHandle_t Tarea1; //Objeto
 
