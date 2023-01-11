@@ -1,6 +1,6 @@
 # Esp32-Doble-Nucleo
 
-### Codigo Para Conocer Que Nucleo Se Esta Utilizando
+### Codigo para conocer que nucleo se esta utilizando
 ```c++
 void setup()
 {
