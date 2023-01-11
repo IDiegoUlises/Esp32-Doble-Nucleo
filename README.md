@@ -16,8 +16,8 @@ void loop()
 {
   Serial.print("Loop() se corre en el nucleo");
   Serial.println(xPortGetCoreID());
-  delay(1000); //Un retardo para llenar el puerto serial
+  delay(1000); //Un retardo para no llenar el puerto serial
 }
 ```
 
-* La funcion void setup() y void loop() utilizan el nucleo 1
+* La funcion ```void setup()``` y ```void loop()``` utilizan el nucleo 1
