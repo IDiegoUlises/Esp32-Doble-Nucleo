@@ -62,3 +62,6 @@ void funcion(void * pvParameters)
   }
 }
 ```
+
+## Debug
+<img  src="https://github.com/IDiegoUlises/Esp32-Doble-Nucleo/blob/main/Images/Debug.png">
