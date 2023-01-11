@@ -22,5 +22,5 @@ void loop()
 
 * La funcion ```void setup()``` y ```void loop()``` utilizan el nucleo 1
 * La funcion ```xPortGetCoreID()``` se utiliza para conocer que nucleo se esta utilizando
-* El Esp32 tiene dos nucleo es decir que se pueden hacer dos activades al mismo tiempo
+* Este microcontrolador tiene dos nucleo y se pueden hacer dos actividades al mismo tiempo
 
